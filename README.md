@@ -1,2 +1,2 @@
 # chess
-A litte chess engine to play against in the browser.
+A litte chess engine to play against in the browser.  
